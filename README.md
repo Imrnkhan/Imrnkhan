@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Khan</h1>
-<h3 align="center">An aspiring Full-Stack Web Developer with 1000+ hours of coding experience in Javascript, Java,Spring, SpringBoot,Hibernate,MySql and Python. A dedicated team player enthusiastic to be part of a reputed company
+<h3 align="center">An Aspiring Full-Stack Java Developer with 1000+ hours of coding experience in Java, Javascript, Spring, SpringBoot, Hibernate, MySql, and .Net A dedicated team player enthusiastic to be part of a reputed company
 </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrnkhan" alt="imrnkhan" /></a> </p>
